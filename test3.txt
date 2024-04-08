@@ -1,6 +1,6 @@
 This is a test
 This is my first test.
-Added a line
 Another test.
+Changes
 More stuff
-Another line
+Another line here
